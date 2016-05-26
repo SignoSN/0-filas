@@ -11,9 +11,24 @@
       body{
         background-color: #1e88e5 ;
       }
+      div.centros{
+        margin: 50% auto;
+        display: none;
+        /*width: auto;*/
+      }
     </style>
   </head>
   <body>
-    <img src="" alt="" />
+    <div class="centros">
+<img src="img/CeroFilas.png" width="100%" />
+    </div>
+    <script>
+      $(window).ready(function(){
+        $(".centros").fadeIn(3000).fadeOut(3000);
+        setTimeout(function(){
+        window.location = "./menu.html";
+       },6000);
+      });
+    </script>
   </body>
 </html>
