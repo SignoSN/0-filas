@@ -1,0 +1,33 @@
+{
+  "name": "Cero Filas",
+  "homepage": "https://github.com/SignoSN/0-filas",
+  "authors": [
+    "Signo Slichtnacht <signosn@gmail.com>"
+  ],
+  "description": "app para agilizar los tramites gubernamentale de la ciudad de m[exico",
+  "main": "index.html",
+  "keywords": [
+    "app",
+    "gob",
+    "0filas",
+    "ceroFilas",
+    "sep",
+    "se",
+    "ss",
+    "shcp",
+    "sedatu"
+  ],
+  "license": "GPL1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6",
+    "jquery": "^3.0.0",
+    "angular": "angularjs#^1.5.6"
+  }
+}

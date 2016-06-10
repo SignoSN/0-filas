@@ -216,3 +216,4 @@ pip-log.txt
 .mr.developer.cfg
 #recursos
 recursos/
+bower_components/
