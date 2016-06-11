@@ -1,0 +1,36 @@
+{
+  "nombre":"Secretaría de Educación Pública",
+  "imagen":"img/sep.png",
+  "descrip": "Aquí encontrarás tramites relacionados a la educación como becas, apoyos económicos, etc.",
+  "tramites":{
+    "beca1":{
+      "titulo": "Becas para estudios de posgrado de alta calidad, para profesores de Universidades...",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de alguna Universidad Pública Estatal o afín? ¿Deseas realizar estudios de maestría o doctorado? Si fuiste contratado antes del 31 de diciembre de1996 o si no cuentas con el doctorado y llevas un año laborando, la Secretaría de Educación Pública (SEP) te ofrece una beca para estudios de posgrado de alta calidad.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-para-estudios-de-posgrado-de-alta-calidad-para-profesores-de-universidades-publicas-estatales-y-afines-en-la-sep/SEP517"
+    },
+    "beca2":{
+      "titulo": "Apoyo para la titulación de jóvenes indígenas",
+      "costo": "Gratuito",
+      "descrip": "¿Eres estudiante de educación superior y vas a titularte? Si perteneces a una comunidad indígena obtén una beca de apoyo, que otorga la Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI), para tu proceso de titulación.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/apoyo-para-la-titulacion-de-jovenes-indigenas/CDI32"
+    },
+    "beca3":{
+      "titulo": "Beca CONACYT de Posgrado en México",
+      "costo": "Gratuito",
+      "descrip": "¿Has sido aceptado en un Programa de Posgrado inscrito en el Padrón Nacional de Posgrados de Calidad y te interesa obtener una beca por parte de CONACYT? Consulta aquí la información necesaria para obtenerla.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/beca-conacyt-de-posgrado-en-mexico/CONACYT78"
+    },
+    "beca4":{
+      "titulo": "Beca a estudiantes indígenas de nivel superior dentro del Programa Apoyo a la Educación Indígena",
+      "costo": "Gratuito",
+      "descrip": "¿Estás estudiando tu educación superior? ¿Necesitas una beca y recursos económicos que contribuyan a la solvencia de gastos durante tus estudios? El Programa Apoyo a la Educación Indígena tiene el objetivo de que continúes, termines y logres titularte.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/beca-conacyt-de-posgrado-en-mexico/CONACYT78"
+    }
+  },
+  "mapa": ""
+}

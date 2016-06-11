@@ -1,0 +1,37 @@
+		<!-- <div class="parallax-container">
+		 <div class="parallax"><img ng-src="{{$ctrl.secre.imagen}}" width="100%"></div>
+	 </div> -->
+	 <img ng-src="{{$ctrl.secre.imagen}}" width="100%">
+
+	 <div class="section white">
+    <div class="row container">
+      <h2 class="header" align="center">{{$ctrl.secre.nombre}}</h2>
+      <p class="grey-text text-darken-3 lighten-3">
+      	{{$ctrl.secre.descrip}}
+      </p>
+			<ul class="collapsible" data-collapsible="accordion">
+				<li ng-repeat="beca in $ctrl.secre.tramites">
+					<div class="collapsible-header teal-text text-darken-4"> <i class="material-icons">{{beca.icono}}</i> {{beca.titulo}} </div>
+      		<div class="collapsible-body"><p>
+      			{{beca.descrip}}
+						<br><br>
+						<b>Costo:</b><i>{{beca.costo}}</i>
+						<br>
+						<a href="{{beca.link}}" target="_blank">Más información</a>
+      		</p></div>
+				</li>
+			</ul>
+    </div>
+  </div>
+
+
+		<script>
+		$(document).ready(function(){
+			$('.parallax').parallax();
+			$('.collapsible').collapsible({
+				accordion : false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+		});
+
+  });
+
+		</script>

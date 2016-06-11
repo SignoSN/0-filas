@@ -1,0 +1,15 @@
+{
+  "nombre":"",
+  "imagen": "",
+  "descrip": "",
+  "tramites": [
+    ""{
+      "titulo": "",
+      "costo": "",
+      "descrip": "",
+      "icono":"",
+      "link": ""
+    }
+  ],
+  "mapa": ""
+}
