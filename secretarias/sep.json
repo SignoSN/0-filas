@@ -30,6 +30,125 @@
       "descrip": "¿Estás estudiando tu educación superior? ¿Necesitas una beca y recursos económicos que contribuyan a la solvencia de gastos durante tus estudios? El Programa Apoyo a la Educación Indígena tiene el objetivo de que continúes, termines y logres titularte.",
       "icono" : "payment",
       "link": "https://www.gob.mx/tramites/ficha/beca-conacyt-de-posgrado-en-mexico/CONACYT78"
+    },
+    "beca5":{
+      "titulo": "Asistentes de Idiomas México-Québec",
+      "costo": "Gratuito",
+      "descrip": "Programa de Intercambio a ciudadanos mexicanos interesados en participar en la difusión, uso y promoción de la enseñanza de los idiomas español y francés, así como en obtener una experiencia laboral significativa en el extranjero que fortalezca su formación profesional y propicie un mejor entendimiento entre ambos países.",
+      "icono" : "payment",
+      "link": "http://www.gob.mx/tramites/ficha/asistentes-de-idiomas-mexico-quebec/SEP1283"
+    },
+	"beca6":{
+      "titulo": "Becas para redacción de tesis para maestría, doctorado y especialidades médicas o tecnológicas en la SEP",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de alguna institución pública de educación superior? ¿Cuentas con todos los cursos y créditos de un programa de posgrado? Si únicamente te falta la redacción de tesis para obtener el grado, solicita una beca para redacción de tesis a la Secretaría de Educación Pública (SEP).",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-para-redaccion-de-tesis-para-maestria-doctorado-y-especialidades-medicas-o-tecnologicas-en-la-sep/SEP552"
+    },
+	"beca7":{
+      "titulo": "Beca CONACYT de Posgrado en el extranjero",
+      "costo": "Gratuito",
+      "descrip": "¿Quieres obtener una beca de formación de posgrado ya sea para áreas científicas, tecnológicas y humanísticas en el extranjero por parte de CONACYT? ¡Consulta aquí como obtener la beca!",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/beca-conacyt-de-posgrado-en-el-extranjero/CONACYT79"
+    },
+	"beca8":{
+      "titulo": "Beca CONADE deportiva",
+      "costo": "Gratuito",
+      "descrip": "¿Eres atleta de alto rendimiento con resultados sobresalientes a nivel nacional y/o internacional y quieres obtener un apoyo económico por parte de la CONADE? Consulta como obtener una beca económica.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/beca-conade-deportiva/CONADE84"
+    },
+	"beca9":{
+      "titulo": "Beca CONADE académica deportiva",
+      "costo": "Gratuito",
+      "descrip": "¿Eres atleta de alto rendimiento con resultados sobresalientes a nivel nacional y/o internacional y quieres obtener un apoyo económico para continuar con tus estudios por parte de la Comisión Nacional de Cultura Física y Deporte (CONADE)? Consulta cómo obtener la beca económica.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/beca-conade-academica-deportiva/CONADE85"
+    },
+	"beca10":{
+      "titulo": "Becas para estudios de posgrado de alta calidad para profesores de Universidades Interculturales en la SEP",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de alguna Universidad Intercultural? ¿Deseas realizar estudios de maestría y fuiste contratado antes del 31 de diciembre de 2008? ¿Deseas realizar estudios de doctorado y tienes un año laborando con el grado de maestría? Solicita una beca para estudios de posgrado de alta calidad a la Secretaría de Educación Pública (SEP).",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-para-estudios-de-posgrado-de-alta-calidad-para-profesores-de-universidades-interculturales-en-la-sep/SEP538"
+    },
+	"beca11":{
+      "titulo": "Asistentes de Idioma México-Reino Unido",
+      "costo": "Gratuito",
+      "descrip": "Programa que permite a los jóvenes mexicanos realizar una estancia como asistentes de idiomas en Reino Unido.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/asistentes-de-idioma-mexico-reino-unido/SEP1284"
+    },
+	"beca12":{
+      "titulo": "Becas para estudios de posgrado de alta calidad, para profesores de Institutos Tecnológicos en la SEP",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de algún Instituto Tecnológico? ¿Fuiste contratado antes del 31 de diciembre de 2004 y deseas realizar estudios de maestría? ¿Cuentas con un año de antigüedad en tu trabajo actual con el grado de maestría y deseas realizar estudios de doctorado? Solicita una beca para estudios de posgrado de alta calidad en la Secretaría de Educación Pública (SEP).",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-para-estudios-de-posgrado-de-alta-calidad-para-profesores-de-institutos-tecnologicos-en-la-sep/SEP536"
+    },
+	"beca13":{
+      "titulo": "Becas para estudios de posgrado de alta calidad, para profesores de Universidades Politécnicas en la SEP",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de alguna Universidad Politécnica? ¿Deseas realizar estudios de doctorado? Si fuiste contratado antes del 31 de diciembre de 2003 o llevas al menos un año laborando con el grado de maestría, la Secretaría de Educación Pública (SEP) te ofrece una beca para estudios de posgrado de alta calidad",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-para-estudios-de-posgrado-de-alta-calidad-para-profesores-de-universidades-politecnicas-en-la-sep/SEP528"
+    },
+	"beca14":{
+      "titulo": "Intercambio Universitario MANEA",
+      "costo": "Gratuito",
+      "descrip": "¿Estudias la licenciatura o la maestría y tienes pensado realizar un intercambio a alguna universidad de América del Norte, Europa o Asia-Pacífico? Si tu estancia es de 4 a 6 meses, aplica a la Beca de Movilidad MANEA, con la que obtendrás por parte de la Dirección General de Relaciones Internacionales de la SEP, 70 mil pesos para tu manutención.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/intercambio-universitario-manea/SEP1282"
+    },
+	"beca15":{
+      "titulo": "Beca para estudios de posgrado de alta calidad, para profesores de Universidades Tecnológicas en la SEP",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de alguna Universidad Tecnológica? ¿Fuiste contratado antes del 31 de diciembre de 2000 y deseas realizar estudios de maestría? ¿Llevas un año laborando con el grado de maestría y deseas relizar estudios de doctorado? Solicita una beca para estudios de posgrado de alta calidad a la Secretaría de Educación Pública (SEP).",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/beca-para-estudios-de-posgrado-de-alta-calidad-para-profesores-de-universidades-tecnologicas-en-la-sep/SEP527"
+    },
+	"beca16":{
+      "titulo": "Becas para estudios de posgrado de alta calidad, para profesores de las Escuelas Normales Públicas en la SEP",
+      "costo": "Gratuito",
+      "descrip": "¿Eres profesor de tiempo completo de alguna Escuela Normal Pública? ¿Deseas realizar estudios de maestría y fuiste contratado antes del 31 de diciembre de 2014? ¿Deseas realizar estudios de doctorado y llevas un año laborando con el grado de maestría? Solicita una beca para estudios de posgrado de alta calidad en la Secretaría de Educación Púiblica (SEP).",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-para-estudios-de-posgrado-de-alta-calidad-para-profesores-de-las-escuelas-normales-publicas-en-la-sep/SEP537"
+    },
+	"beca17":{
+      "titulo": "Becas compartidas SEP/Liceo Franco Mexicano",
+      "costo": "Gratuito",
+      "descrip": "La Secretaría de Educación Pública de los Estados Unidos Mexicanos (SEP), a través de la Dirección General de Relaciones Internacionales (DGRI), y el Liceo Franco-Mexicano A.C. (LFM), convocan a estudiantes mexicanos/as, egresados/as de escuelas secundarias públicas, con calificaciones de excelencia, a que realicen estudios de bachillerato tecnológico en el Liceo Franco Mexicano, conforme al sistema de enseñanza de la República Francesa, en las áreas de Diseño Industrial e Innovación; Energía y Desarrollo Sustentable; Tecnologías y Sistemas de Información y Ciencias del Ingeniero, a fin de que, al término del bachillerato, puedan continuar sus estudios a nivel universitario en disciplinas afines a dichas áreas.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/becas-compartidas-sep-liceo-franco-mexicano/SEP1272"
+    },
+	"beca18":{
+      "titulo": "Asistentes de Idioma México-Francia",
+      "costo": "Gratuito",
+      "descrip": "Programa de Intercambio para los jóvenes Mexicanos que les permite hacer una estancia como Asistentes de idioma español en Francia.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/asistentes-de-idioma-mexico-francia/SEP1280"
+    },
+	"beca19":{
+      "titulo": "Programa de becas compartidas DGRI-SEP/Universidad Macquarie (UM)",
+      "costo": "Gratuito",
+      "descrip": "Beca dirigida a estudiantes mexicanos/as que deseen realizar sus estudios de maestría en la Universidad de Macquarie en Australia. Esta beca consiste en la exención del 50% del pago de inscripción y colegiatura, y un apoyo anual para manutención de $150 mil pesos mexicanos por el tiempo que dure el posgrado, por parte de la Dirección General de Relaciones Internacionales de la SEP.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/programa-de-becas-compartidas-dgri-sep-universidad-macquarie-um/SEP1286"
+    },
+	"beca20":{
+      "titulo": "Intercambio Universitario Región Asia-Pacífico (UMAP)",
+      "costo": "Gratuito",
+      "descrip": "¿Estudias la licenciatura o la maestría en alguna universidad que pertenezca a la Red UMAP? Si estás interesado en realizar un intercambio universitario a la región Asia-Pacífico, con una duración de 4 a 6 meses, aplica a la Beca UMAP (Movilidad Universitaria en Asia y el Pacífico), con la que obtendrás por parte de la Dirección General de Relaciones Internacionales de la SEP, 70 mil pesos para tu manutención.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/intercambio-universitario-region-asia-pacifico-umap/SEP1281"
+    },
+	"beca21":{
+      "titulo": "Solicitud de beca de Educación Superior",
+      "costo": "Gratuito",
+      "descrip": "Si eres un/a alumno/a, docente o egresado/a de una Institución Pública de Educación Superior (IPES) interesado/a en una beca, puedes solicitar una beca de Manutención, Capacitación, Continuación de Estudios, Prácticas, Titulación, Salario, Servicio Social, Excelencia, Movilidad Internacional, Movilidad Nacional, Estudios de Especialidad, Maestría, Doctorado y Estancias Posdoctorales, para la Profesionalización Docente del Programa Nacional de Becas de Educación Superior.",
+      "icono" : "payment",
+      "link": "https://www.gob.mx/tramites/ficha/solicitud-de-beca-de-educacion-superior/SEP844"
     }
   },
   "mapa": ""

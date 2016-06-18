@@ -2,14 +2,14 @@
   "nombre":"",
   "imagen": "",
   "descrip": "",
-  "tramites": [
-    ""{
+  "tramites": {
+    "": {
       "titulo": "",
       "costo": "",
       "descrip": "",
       "icono":"",
       "link": ""
     }
-  ],
+  },
   "mapa": ""
 }

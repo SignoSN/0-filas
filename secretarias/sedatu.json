@@ -1,0 +1,43 @@
+{
+  "nombre":"Secretaría de Desarrollo Agrario, Territorial y Urbano",
+  "imagen": "img/sedatu.png",
+  "descrip": "es la entidad del Gobierno de México encargada de los temas de desarrollo agrario, urbano y de vivienda.",
+  "tramites": {
+    "Desarrollo urbano y territorial1":{
+      "titulo": "Solicitud de información sobre inmuebles con valor artístico o monumento artístico ante el INBA",
+      "costo": "Gratuito",
+      "descrip": "Proporciona información si un bien inmueble esta declarado como monumento artístico mediante publicación en el Diario Oficial de la Federación o esta identificado por su valor estético relevante.",
+      "icono":"done",
+      "link":"https://www.gob.mx/tramites/ficha/solicitud-de-informacion-sobre-inmuebles-con-valor-artistico-o-monumento-artistico-ante-el-inba/INBAL1311"
+    },
+	"Desarrollo urbano y territorial2":{
+      "titulo": "Autorización para intervenciones en colindante a monumento artístico ante el INBA",
+      "costo": "Gratuito",
+      "descrip": "Solicitar la autorización para realizar intervenciones mayores, en inmuebles colindantes a monumento artístico. Las intervenciones mayores son aquellas que modifican el diseño estructural y/o arquitectónico de un inmueble como son: obras de demolición,excavación,instalación o modificación en edificaciones existentes, ampliación y construcción de obra nueva.",
+      "icono":"done",
+      "link": "https://www.gob.mx/tramites/ficha/autorizacion-para-intervenciones-en-colindante-a-monumento-artistico-ante-el-inba/INBAL1308"
+    },
+	"Desarrollo urbano y territorial3":{
+      "titulo": "Autorización para intervenciones en inmueble con valor artístico y/o colindante ante el INBA",
+      "costo": "Gratuito",
+      "descrip": "Solicitar la autorización para realizar intervenciones mayores, en inmueble con valor artístico y/o en colindantes a éstos. Las intervenciones mayores son aquellas que modifican el diseño estructural y/o arquitectónico de un inmueble como son: obras de restauración, rehabilitación estructural, ampliación y/o restitución. En el caso de los colindantes son: obras de demolición, excavación, instalación o modificación en edificaciones existentes, ampliación y construcción de obra nueva.",
+      "icono":"done",
+      "link":"https://www.gob.mx/tramites/ficha/autorizacion-para-intervenciones-en-inmueble-con-valor-artistico-y-o-colindante-ante-el-inba/INBAL1309"
+    },
+	"Desarrollo urbano y territorial4":{
+      "titulo": "Autorización para efectuar intervenciones menores y/o colocación de anuncios en monumento artístico",
+      "costo": "Gratuito",
+      "descrip": "Autorización para efectuar intervenciones menores y/o colocación de anuncios en monumento artístico",
+      "icono":"done",
+      "link":"https://www.gob.mx/tramites/ficha/autorizacion-para-efectuar-intervenciones-menores-y-o-colocacion-de-anuncios-en-monumento-artistico/INBAL1312"
+    },
+	"Desarrollo urbano y territorial5":{
+      "titulo": "Autorización para intervenciones en monumento artístico o colindante ante el INBA",
+      "costo": "Gratuito",
+      "descrip": "Solicitar la autorización para realizar intervenciones mayores, que impliquen en inmuebles monumento artístico o en colindantes a éstos. Las intervenciones mayores son aquellas que modifican el diseño estructural y/o arquitectónico de un inmueble como son: obras de restauración, rehabilitación estructural, ampliación y/o restitución.",
+      "icono":"done",
+      "link":"https://www.gob.mx/tramites/ficha/autorizacion-para-intervenciones-en-monumento-artistico-o-colindante-ante-el-inba/INBAL1307"
+    }
+  },
+  "mapa": ""
+}
